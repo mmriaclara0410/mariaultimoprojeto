@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Filme Moana ',
+    'Quem é o vilão no filme Moana?',
+    'Tamatoa e Te Fiti.'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'filme moana',
+    'Qual era o objetivo da Moana?',
+    'Restaurar a fertilidade de sua ilha e salvar seu povo.'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Filme Moana',
+    'Quem são os pais da Moana?',
+    'Chefes da ilha de Motunui, Tui e Sina.'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Filme Moana',
+    'Qual a origem do filme Moana?',
+    'A história foi inspirada em mitos,história e cultura do povo Mãori, especialmente dsa Polinésia. '
 )
